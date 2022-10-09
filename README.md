@@ -33,4 +33,5 @@ The goal is to accurately predict the Length of Stay for each patient on case by
     * Ideation Phase
     * Assignment 2
     * Project Design Phase - 1 
-    * Assigment 3 (On Progress) 
+    * Assigment 3 
+    * Project Design Phase - 2 (On Progress)
