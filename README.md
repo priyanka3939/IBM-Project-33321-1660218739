@@ -25,7 +25,7 @@ Being a developing country, India has gone through many issues especially during
 The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
 ## 👨‍💻👩‍💻 Technical Architecture 
-                                 ![download](https://user-images.githubusercontent.com/58679563/193767926-f439710b-8ffc-4722-9f7f-a3e53e8009bd.png)
+![download](https://user-images.githubusercontent.com/58679563/193767926-f439710b-8ffc-4722-9f7f-a3e53e8009bd.png)
 
 
 ## 📋 Task completion:
